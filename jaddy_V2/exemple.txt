@@ -1,0 +1,888 @@
+Veuillez entre le nom de votre combattant: 
+jady
+Le courageux combattant jady penetre le donjon et doit atteindre la porte nord de la piece (4,4) pour sortir
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+( X ) (2,1) (3,1) (4,1) 
+Vous etes dans la piece (1, 1)
+Vos points de de vie: 10
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+e
+Vous etes dans la piece (2, 1)
+Vos points de de vie: 10
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) ( X ) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Troll
+
+Le combat va commencer entre jady et Troll
+
+Un tour a commence entre jady et Troll
+Troll subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 10 
+Pts de vie restantes de Troll: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 9 
+Pts de vie restantes de Troll: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 8 
+Pts de vie restantes de Troll: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+Troll subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 8 
+Pts de vie restantes de Troll: 3
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 7 
+Pts de vie restantes de Troll: 3
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+Troll subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 7 
+Pts de vie restantes de Troll: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 6 
+Pts de vie restantes de Troll: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 5 
+Pts de vie restantes de Troll: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+Troll subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 5 
+Pts de vie restantes de Troll: 1
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+Troll subit une violente attaque,  trop violente pour survivre
+Pts de vie restantes de jady: 5 
+Pts de vie restantes de Troll: 0
+
+Troll est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'arme Nunchucks et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+t
+Vous etes dans la piece (2, 1)
+Vos points de de vie: 5
+Votre arme: Nunchucks | Degats: : x4
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) ( X ) (3,1) (4,1) 
+Troll est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+n
+Vous etes dans la piece (2, 2)
+Vos points de de vie: 5
+Votre arme: Nunchucks | Degats: : x4
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) ( X ) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Incubus
+
+Le combat va commencer entre jady et Incubus
+
+Un tour a commence entre jady et Incubus
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 4 
+Pts de vie restantes de Incubus: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Incubus
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 3 
+Pts de vie restantes de Incubus: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Incubus
+Incubus subit une violente attaque,  par l'arme Nunchucks  mais il parvient a se relever
+Pts de vie restantes de jady: 3 
+Pts de vie restantes de Incubus: 1
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Incubus
+Incubus subit une violente attaque,  par l'arme Nunchucks  trop violente pour survivre
+Pts de vie restantes de jady: 3 
+Pts de vie restantes de Incubus: -3
+
+Incubus est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'arme Mighty et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+y
+Vous etes dans la piece (2, 2)
+Vos points de de vie: 3
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) ( X ) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Incubus est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+e
+Vous etes dans la piece (3, 2)
+Vos points de de vie: 3
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) ( X ) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Minotaur
+
+Le combat va commencer entre jady et Minotaur
+
+Un tour a commence entre jady et Minotaur
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 2 
+Pts de vie restantes de Minotaur: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+f
+jady a fuit du combat, il regagne sa vie mais son manque de courage le ramene a la piece de debut (1,1)
+Et le monstre Minotaur regagne sa vie
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+t
+Vous etes dans la piece (1, 1)
+Vos points de de vie: 10
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+( X ) (2,1) (3,1) (4,1) 
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+n
+Vous etes dans la piece (1, 2)
+Vos points de de vie: 10
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+( X ) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Titan
+
+Le combat va commencer entre jady et Titan
+
+Un tour a commence entre jady et Titan
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 9 
+Pts de vie restantes de Titan: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+Titan subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 9 
+Pts de vie restantes de Titan: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 8 
+Pts de vie restantes de Titan: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+Titan subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 8 
+Pts de vie restantes de Titan: 3
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 7 
+Pts de vie restantes de Titan: 3
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+Titan subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 7 
+Pts de vie restantes de Titan: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 6 
+Pts de vie restantes de Titan: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+Titan subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6 
+Pts de vie restantes de Titan: 1
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Titan
+Titan subit une violente attaque,  par l'arme Mighty  trop violente pour survivre
+Pts de vie restantes de jady: 6 
+Pts de vie restantes de Titan: 0
+
+Titan est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'armure Gladiator's et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+t
+Vous etes dans la piece (1, 2)
+Vos points de de vie: 6
+Votre armure: Gladiator's | Protection: : +4
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+( X ) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Titan est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+s
+Vous etes dans la piece (1, 1)
+Vos points de de vie: 6
+Votre armure: Gladiator's | Protection: : +4
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+( X ) (2,1) (3,1) (4,1) 
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+e
+Vous etes dans la piece (2, 1)
+Vos points de de vie: 6
+Votre armure: Gladiator's | Protection: : +4
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) ( X ) (3,1) (4,1) 
+Troll est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+n
+Vous etes dans la piece (2, 2)
+Vos points de de vie: 6
+Votre armure: Gladiator's | Protection: : +4
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) ( X ) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Incubus est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+e
+Vous etes dans la piece (3, 2)
+Vos points de de vie: 6
+Votre armure: Gladiator's | Protection: : +4
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) ( X ) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Minotaur
+
+Le combat va commencer entre jady et Minotaur
+
+Un tour a commence entre jady et Minotaur
+jady subit une violente attaque,  mais il est protege par son armure Gladiator's, il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +3
+Pts de vie restantes de Minotaur: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Minotaur
+Minotaur subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +3
+Pts de vie restantes de Minotaur: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Minotaur
+Minotaur subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +3
+Pts de vie restantes de Minotaur: 3
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Minotaur
+Minotaur subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +3
+Pts de vie restantes de Minotaur: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Minotaur
+jady subit une violente attaque,  mais il est protege par son armure Gladiator's, il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +2
+Pts de vie restantes de Minotaur: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Minotaur
+Minotaur subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +2
+Pts de vie restantes de Minotaur: 1
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Minotaur
+Minotaur subit une violente attaque,  par l'arme Mighty  trop violente pour survivre
+Pts de vie restantes de jady: 6  Armure: +2
+Pts de vie restantes de Minotaur: 0
+
+Minotaur est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'armure Ice et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+t
+Vous etes dans la piece (3, 2)
+Vos points de de vie: 6
+Votre armure: Ice | Protection: : +2
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) ( X ) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Minotaur est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+e
+Vous etes dans la piece (4, 2)
+Vos points de de vie: 6
+Votre armure: Ice | Protection: : +2
+Votre arme: Mighty | Degats: : x1
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) ( X ) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Wendigo
+
+Le combat va commencer entre jady et Wendigo
+
+Un tour a commence entre jady et Wendigo
+jady subit une violente attaque,  mais il est protege par son armure Ice, il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +1
+Pts de vie restantes de Wendigo: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+Wendigo subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +1
+Pts de vie restantes de Wendigo: 4
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+Wendigo subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +1
+Pts de vie restantes de Wendigo: 3
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+Wendigo subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6  Armure: +1
+Pts de vie restantes de Wendigo: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+jady subit une violente attaque,  mais il est protege par son armure Ice, il parvient a se relever mais il perd son armure
+Pts de vie restantes de jady: 6 
+Pts de vie restantes de Wendigo: 2
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+Wendigo subit une violente attaque,  par l'arme Mighty  mais il parvient a se relever
+Pts de vie restantes de jady: 6 
+Pts de vie restantes de Wendigo: 1
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+jady subit une violente attaque,  mais il parvient a se relever
+Pts de vie restantes de jady: 5 
+Pts de vie restantes de Wendigo: 1
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+e
+Un tour a commence entre jady et Wendigo
+Wendigo subit une violente attaque,  par l'arme Mighty  trop violente pour survivre
+Pts de vie restantes de jady: 5 
+Pts de vie restantes de Wendigo: 0
+
+Wendigo est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'arme Undead et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+t
+Vous etes dans la piece (4, 2)
+Vos points de de vie: 5
+Votre arme: Undead | Degats: : x5
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) ( X ) 
+(1,1) (2,1) (3,1) (4,1) 
+Wendigo est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+n
+Vous etes dans la piece (4, 3)
+Vos points de de vie: 5
+Votre arme: Undead | Degats: : x5
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) ( X ) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Goblin
+
+Le combat va commencer entre jady et Goblin
+
+Un tour a commence entre jady et Goblin
+Goblin subit une violente attaque,  par l'arme Undead  trop violente pour survivre
+Pts de vie restantes de jady: 5 
+Pts de vie restantes de Goblin: 0
+
+Goblin est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'armure Frost et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+y
+Vous etes dans la piece (4, 3)
+Vos points de de vie: 5
+Votre armure: Frost | Protection: : +3
+Votre arme: Undead | Degats: : x5
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) (4,4) 
+(1,3) (2,3) (3,3) ( X ) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Goblin est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+n
+Vous etes dans la piece (4, 4)
+Vos points de de vie: 5
+Votre armure: Frost | Protection: : +3
+Votre arme: Undead | Degats: : x5
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) ( X ) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Le courageux combattant jady va affronter le monstre Troll
+
+Le combat va commencer entre jady et Troll
+
+Un tour a commence entre jady et Troll
+jady subit une violente attaque,  mais il est protege par son armure Frost, il parvient a se relever
+Pts de vie restantes de jady: 5  Armure: +2
+Pts de vie restantes de Troll: 5
+
+Voulez vous continuer le combat ou fuir?
+ Fuir: f
+ Continuer: n'importe quelle autre touche
+n
+Un tour a commence entre jady et Troll
+Troll subit une violente attaque,  par l'arme Undead  trop violente pour survivre
+Pts de vie restantes de jady: 5  Armure: +2
+Pts de vie restantes de Troll: 0
+
+Troll est mort
+
+jady a gagne le combat!
+
+Suite a cette victoire, le courageux jady a trouve l'armure Mithril et va s'en equiper
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+t
+Vous etes dans la piece (4, 4)
+Vos points de de vie: 5
+Votre armure: Mithril | Protection: : +3
+Votre arme: Undead | Degats: : x5
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) ( X ) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Troll est vaincu, il n'y aura plus de combat dans cette piece
+
+Choisissez la direction de deplacement:
+ nord: N
+ sud: S
+ ouest: O
+ est: E
+ afficher votre statut: autre touche
+
+n
+Felicitations, vous etes sortis du Donjon. Vous avez gagne le jeu!
+
+          N          
+          |          
+    O --- + --- E    
+          |          
+          S          
+(1,4) (2,4) (3,4) ( X ) 
+(1,3) (2,3) (3,3) (4,3) 
+(1,2) (2,2) (3,2) (4,2) 
+(1,1) (2,1) (3,1) (4,1) 
+Troll est vaincu, il n'y aura plus de combat dans cette piece
